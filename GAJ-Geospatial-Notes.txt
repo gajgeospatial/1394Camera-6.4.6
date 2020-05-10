@@ -1,0 +1,1 @@
+Install Envionment as 1394C_DIR
